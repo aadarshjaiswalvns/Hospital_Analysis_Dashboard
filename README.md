@@ -1,5 +1,7 @@
 # 🏥 Hospital Data Analysis Dashboard  
 
+![Dashboard](https://github.com/aadarshjaiswalvns/Hospital_Analysis_Dashboard/blob/main/Dashboard_preview.png)  
+
 ## 📌 Project Overview  
 This project is an **interactive Hospital Data Analysis Dashboard** built using **Power BI**.  
 The dashboard provides insights into patient data across multiple dimensions such as **age group, specialty, case type, city, and time period**.  
