@@ -36,16 +36,16 @@ The project uses the provided **Excel dataset (`Hospital_Data.xlsb`)** as the so
 ## 📷 Dashboard Previews  
 
 ### 🔹 Main Dashboard  
-![Dashboard](Dashboard_preview.png)  
+![Dashboard](https://github.com/aadarshjaiswalvns/Hospital_Analysis_Dashboard/blob/main/Dashboard_preview.png)  
 
 ### 🔹 Monthly Overview  
-![Monthly Overview](Dashboard_preview1.png)  
+![Monthly Overview](https://github.com/aadarshjaiswalvns/Hospital_Analysis_Dashboard/blob/main/Dashboard_preview3.png)  
 
 ### 🔹 Data Overview  
-![Data Overview](Dashboard_preview2.png)  
+![Data Overview](https://github.com/aadarshjaiswalvns/Hospital_Analysis_Dashboard/blob/main/Dashboard_preview2.png)  
 
 ### 🔹 Table Overview  
-![Table Overview](Dashboard_preview3.png)  
+![Table Overview](https://github.com/aadarshjaiswalvns/Hospital_Analysis_Dashboard/blob/main/Dashboard_preview1.png)  
 
 ---
 
