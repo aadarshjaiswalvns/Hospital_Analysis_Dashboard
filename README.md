@@ -51,14 +51,6 @@ The project uses the provided **Excel dataset (`Hospital_Data.xlsb`)** as the so
 
 ---
 
-## 🚀 How to Use  
-1. Download the repository.  
-2. Open `Hospital Analysis.pbix` in **Power BI Desktop**.  
-3. Load the dataset (`Hospital_Data.xlsb`) if prompted.  
-4. Explore the interactive dashboard by using filters and slicers.  
-
----
-
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Data modeling & visualization  
 - **Excel (`.xlsb`)** – Data source  
